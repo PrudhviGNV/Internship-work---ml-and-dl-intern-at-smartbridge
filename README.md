@@ -5,10 +5,10 @@
 
 ---
 
-It consists of following segments :
- 0. Exploratory Data Analysis and visualization
+It consists of following segments : <br>
+00. Exploratory Data Analysis and visualization
  1. Handling missing values
- 2. 
+ 2. Working with outliers
  3. Linear regression
  4. Polynomial regression
  5. Classification
